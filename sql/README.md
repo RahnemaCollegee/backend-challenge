@@ -8,7 +8,7 @@
 
 لطفا قبل از شروع کردن سوال مراحل زیر رو انجام بدین.
 
-- اول از همه این [فایل](https://drive.google.com/file/d/1yKlJgsjLNpHaR3FRfhXdflQ_eys9lGaS/view?usp=share_link) را دانلود و اکسترکت کنین.
+- اول از همه این [فایل](https://drive.google.com/file/d/1vXK5xYUfEgmi-jlOi6HF3Kxv1t4fLDsy/view?usp=sharing) را دانلود و اکسترکت کنین.
 - قراره جواب های خودتون رو داخل فایل answer.pdf بنویسین.
 - اگر دیتابیس `postgresql` رو داخل سیستمتون دارید میتونین با اجرا کردن فایل `setup/setup-local.sh` داده های ما رو به دیتابیس `rahnema-bootcamp-db` اضافه کنید و با ران کردن فایل `test-local.sh` جواب هاتون رو تست کنید.
 - اگه `postgresql` روی سیستمتون نصب نیست هم نگران نباشید. شما میتونید با ران کردن فایل `test-remote.sh` و وصل شدن به دیتابیس ما کدهاتون رو تست کنید.
@@ -52,7 +52,7 @@
 </br>
 
 ```
-| comment_id | user_id | movie_id | rating |
+| rate_id | user_id | movie_id | rating |
 |------------|---------|----------|--------|
 | 1          | 1       | 306      | 3.5    |
 | 2          | 1       | 307      | 5      |
