@@ -220,7 +220,7 @@ export [db-name] [path]
 ورودی نمونه ۱:
 
 ```
-import ./data/test.json rahnema_database
+export rahnema_database ./data/test.json
 ```
 
 خروجی نمونه ۱:
